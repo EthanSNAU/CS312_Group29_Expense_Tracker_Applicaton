@@ -125,7 +125,7 @@ export default function AnalyticsDisplay() {
 
   return (
     <div style={{ border: '1px solid #ddd', padding: '20px', margin: '20px 0', background: '#f9f9f9' }}>
-      <h3>Monthly Analytics 📊</h3>
+      <h3>Monthly Analytics</h3>
       
       <div style={{ marginBottom: '15px' }}>
         <select 
@@ -153,4 +153,5 @@ export default function AnalyticsDisplay() {
       {renderContent()}
     </div>
   );
+
 }
