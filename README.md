@@ -1,2 +1,0 @@
-# CS312_Group29_Expense_Tracker_Applicaton
-for class
